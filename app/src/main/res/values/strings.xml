@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MagnumChat</string>
+    <string name="sample_message">Hello!</string>
+</resources>
